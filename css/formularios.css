@@ -1,0 +1,31 @@
+.header {
+  background-color: #203239;
+  padding: 4px;
+}
+
+.header .logo {
+  width: 45px;
+  height: 45px;
+  float: left;
+}
+
+.header h1 {
+  font-size: 35px;
+  font-family: "lato", arial;
+  color: white;
+}
+
+hr {
+  height: 7px;
+  background-color: #d9ce16;
+}
+
+.form {
+  background-color: rgba(196, 196, 196, 0.22);
+}
+
+.rounded {
+  width: 350px;
+  height: 250px;
+}
+/*# sourceMappingURL=formularios.css.map */

@@ -1,0 +1,41 @@
+
+
+@import"variables";
+
+
+
+
+.header {
+    background-color: $fondo-header;
+    padding: 4px;
+
+    .logo {
+        width: $logo;
+        height: $logo;
+        float: left;
+
+    }
+
+    h1 {
+        font-size: 35px;
+        font-family: $tipografia;
+        color: white;
+    }
+}
+
+hr {
+    height: 7px;
+    background-color: $color-linea;
+}
+
+
+.form {
+    background-color: $fondo-form;
+}
+
+
+//check//
+.rounded{
+    width: 350px;
+    height: 250px;
+}

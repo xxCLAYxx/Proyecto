@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAMA,AAAA,MAAM,CAAC,QAAQ,CAAA;EACX,KAAK,ECKI,sBAAsB;CDJlC",
+    "sources": [
+        "../SCSS/otros/menu.scss",
+        "../SCSS/otros/_variables.scss"
+    ],
+    "names": [],
+    "file": "menu.css"
+}
