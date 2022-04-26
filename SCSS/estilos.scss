@@ -24,18 +24,37 @@
     }
 }
 
+//Aside//
+.barra {
+    background-color: $text-footer;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     h2 {
+         color: $color-info;
+     }
+}
+// Desaparece aside //
+@media (max-width: 991px) {
+    .barra2 {
+        display: none;
+    }
+}
+
 
 // cuerpo de la pagina //
 hr{
     background-color: $color-linea;
 }
-
-.container-xl a{
+ //Titulo de Destacados//
+.container-flui a{
     text-decoration: none;
     color: $color-texto-fondo;
 }
 
-.container-xl a:hover{
+.container-flui a:hover{
     
     background-color: $color-texto-fondo;
     color:$color-info;
