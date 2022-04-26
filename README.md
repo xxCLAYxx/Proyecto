@@ -20,7 +20,7 @@ El proyecto consiste en la realización de un sitio web de ventas de inmuebles, 
 Hoja de estilo en cascada, Es un lenguaje de diseño gráfico para definir y crear la presentación de un documento lenguaje de marcado. Es  usado para establecer el diseño visual de los documentos web, e interfaces de usuario escritas en HTML.
 
  - <b>SASS Compiler</b> <br>
-Sass es el preprocesador de CSS, el cual nos permite escribir CSS de manera limpia, en cascada, reutilizable y de forma modular.
+Sass es el preprocesador de CSS, el cual nos permite escribir CSS de manera limpia, reutilizable y de forma modular.
 
  - <b>Bootstrap5</b> <br>
 Es un FrameWork, es decir, una caja de herramientas. Es usado en Front-end, brindando las herramientas para desarrollar sitios web responsive en HTML5, CSS3 y Librerias de Js Con Boostrapt5.1 <br>
