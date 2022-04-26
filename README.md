@@ -13,16 +13,16 @@ El proyecto consiste en la realización de un sitio web de ventas de inmuebles, 
 
 --------------------------------------------------------------------------------------------------------------
 # 2.  Herramientas Usadas en el proyecto
- - HTML5 
+ - <b>HTML5 </b> <br>
  Es la utima versión presentada a la fecha sobre HTML, es un lenguaje de etiquetado usado para estructura las páginas web a través de instrucciones que se dan con etiquetas.
  
-- CSS3
+- <b>CSS3 </b> <br>
 Hoja de estilo en cascada, Es un lenguaje de diseño gráfico para definir y crear la presentación de un documento lenguaje de marcado. Es  usado para establecer el diseño visual de los documentos web, e interfaces de usuario escritas en HTML.
 
- - SASS Compiler
+ - <b>SASS Compiler</b> <br>
 Sass es el preprocesador de CSS, el cual nos permite escribir CSS de manera limpia, en cascada, reutilizable y de forma modular.
 
- - Bootstrap5
+ - <b>Bootstrap5</b> <br>
 Es un FrameWork, es decir, una caja de herramientas. Es usado en Front-end, brindando las herramientas para desarrollar sitios web responsive en HTML5, CSS3 y Librerias de Js Con Boostrapt5.1 <br>
 6 Ejercicios, usando HTML 5, CSS3, Librerias de JS6 y Bootstrao 5.
 
