@@ -9,7 +9,7 @@
 
 ----------------------------
 # 1. ¿De qué trata el proyecto?
-El proyecto consiste en la realización de un sitio web de ventas de inmuebles, pero en vez de comprar de forma directa en la página, el usuario tendrá que llenar un formulario, en un tiempo de 6 horas será contactado por algún asesor para tramitar la venta del inmueble que desee el cliente. El sitio web es totalmente responsive, usando Bootstrap5, este sitio web contiene cards hechas con la librería de Bootstrap, Contendrá un formulario donde el usuario podrá llenar sus datos para su debido proceso, además de lo ya mencionado es un sitio web minimalista que busca elegancia, un ambiente donde los usuarios se sienta comodos y tengan una grata experiencia.      
+El proyecto consiste en la realización de un sitio web de ventas de inmuebles, pero en vez de comprar de forma directa en la página, el usuario tendrá que llenar un formulario en un tiempo de 6 horas será contactado por algún asesor para tramitar la venta del inmueble que desee el cliente. El sitio web es totalmente responsive, usando Bootstrap5, este sitio web contiene cards hechas con la librería de Bootstrap, Contendrá un formulario donde el usuario podrá llenar sus datos para su debido proceso, además de lo ya mencionado es un sitio web minimalista que busca elegancia, un ambiente donde los usuarios se sienta comodos y tengan una grata experiencia.      
 
 --------------------------------------------------------------------------------------------------------------
 # 2.  Herramientas Usadas en el proyecto
