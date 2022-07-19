@@ -109,12 +109,12 @@ Es un color azul oscuro, su significado va dirigido fundamentalmente hacia la li
 
 # Autores
 
-José Alejandro Fagua Arias
-
-Jhon Dairo Chica Lozano
-
 Cristian David Quevedo Sánchez  
 
+José Alejandro Fagua Arias
+
 José Manuel Mejía Pérez
+
+Jhon Dairo Chica Lozano
 
 
